@@ -1,3 +1,3 @@
 # Variable declaration
-x = "version 1"
-# x = "version 2"
+#x = "version 1"
+x = "version 2"
